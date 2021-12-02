@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 
 // 여기는 Home Controller
-
+// hello Worl mybatis
 @Controller
 public class HomeController {
 	
